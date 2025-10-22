@@ -1,6 +1,7 @@
 STM32 小狗复刻项目 🐶
 
 复刻自Sngels_wyh大佬的开源项目，该项目详细记录了从淘宝购买“UP主推荐 STM32桌面宠物小狗 DIY 电子联系套件单片机开发板机器狗”后如何操作。
+并上传了部分演示效果（是额外装了3D外壳后的，非常像一个正式的玩具机器狗！）
 
 项目up主的视频教程 🎥
 [新版教程链接🔗](https://www.bilibili.com/video/BV1XRhyzGE2E?spm_id_from=333.788.videopod.sections&vd_source=9799fa0a2eb3dd813b53aa4e7e030661)
